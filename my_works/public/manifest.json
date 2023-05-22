@@ -1,6 +1,6 @@
 {
-  "short_name": "Engg-Materials",
-  "name": "Engineering Material",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#2e2f46",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }

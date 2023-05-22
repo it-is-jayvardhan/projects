@@ -54,7 +54,7 @@ const navbar=document.getElementById("sidebar");
 navbar.style.width="0%";
 }
 return (<>
-<div className={props.mod==="light"?"w3-sidebar w3-card w3-animate-zoom w3-responsive ":"w3-sidebar w3-card w3-animate-zoom w3-responsive w3-dark-grey"} id="sidebar">
+<div className={props.mod==="light"?"w3-sidebar w3-card w3-animate-zoom w3-responsive w3-orange ":"w3-sidebar w3-card w3-animate-zoom w3-responsive w3-dark-grey"} id="sidebar">
 
 <h1 className="w3-bar-item w3-button w3-border w3-hover-purple w3-hover-border-purple" onClick={close}>&times;</h1>
 
